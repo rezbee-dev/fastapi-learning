@@ -5,27 +5,42 @@
 
 ## Steps
 
-**Setup Project**
+### Setup Project
 
-Create virtual environment: 
+<details><summary>1. Create virtual environment:</summary>
+  
 - `python -m venv .venv`
+</details>
 
-Activate environment (windows): 
+<details><summary>2. Activate environment (windows):</summary>
+  
 - `.\.venv\Scripts\Activate.ps1`
+</details>
 
-Install fastAPI: 
+
+<details><summary>3. Install fastAPI:</summary>
+  
 - `pip install fastapi`
-- `pip install fastapi-cli[stand`
+- `pip install fastapi-cli`
+</details>
 
-Extract installed packages to requirements.txt: 
+<details><summary>4. Extract installed packages to requirements.txt:</summary>
+  
 - `pip freeze > requirements.txt`
+</details>
 
-**Create dummy endpoint**
-Create project folder
+--
+
+### Create dummy endpoint
+
+<details><summary>1. Create project folder</summary>
+  
 - Create `app` directory (can also call it `main`, `src`, etc)
 - Create `main.py` inside app directory
+</details>
 
-Add the following code to `main.py`
+<details><summary>2. Add the following code to `main.py`</summary>
+  
   ```python
   from fastapi import FastAPI
 
@@ -35,11 +50,16 @@ Add the following code to `main.py`
   async def root():
       return {"message":"Hello World"}
   ```
+</details>
 
-Run project
+<details><summary>3. Run project</summary>
+  
 - `fastapi dev .\app\main.py`
+</details>
 
-Test endpoint
+<details><summary>4. Test endpoint</summary>
+  
 - Open up browser
 - Go to `http://127.0.0.1:8000/docs`
 - Go to `http://127.0.0.1:8000/hello`
+</details>
