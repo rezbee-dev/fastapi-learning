@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "created_at": "2025-10-25T10:00:00.000000+00:00",
+    "updated_at": null,
+    "name": "Widget Alpha",
+    "quantity": 345,
+    "note": "Standard initial stock."
+  },
+  {
+    "id": 2,
+    "created_at": "2025-10-25T10:01:00.000000+00:00",
+    "updated_at": "2025-10-26T14:30:00.000000+00:00",
+    "name": "Gear Cog 1A",
+    "quantity": 87,
+    "note": "Requires annual inspection."
+  },
+  {
+    "id": 3,
+    "created_at": "2025-10-25T10:02:00.000000+00:00",
+    "updated_at": null,
+    "name": "Spring Coil Heavy Duty",
+    "quantity": 12,
+    "note": null
+  },
+  {
+    "id": 4,
+    "created_at": "2025-10-25T10:03:00.000000+00:00",
+    "updated_at": null,
+    "name": "Capacitor 47uF",
+    "quantity": 980,
+    "note": "In bin location C3."
+  },
+  {
+    "id": 5,
+    "created_at": "2025-10-25T10:04:00.000000+00:00",
+    "updated_at": "2025-10-27T09:00:00.000000+00:00",
+    "name": "Resistor Pack 1kOhm",
+    "quantity": 500,
+    "note": null
+  },
+  {
+    "id": 6,
+    "created_at": "2025-10-25T10:05:00.000000+00:00",
+    "updated_at": null,
+    "name": "Screw M3x10mm",
+    "quantity": 1000,
+    "note": "High volume fastener."
+  },
+  {
+    "id": 7,
+    "created_at": "2025-10-25T10:06:00.000000+00:00",
+    "updated_at": null,
+    "name": "LED Indicator Blue",
+    "quantity": 421,
+    "note": null
+  },
+  {
+    "id": 8,
+    "created_at": "2025-10-25T10:07:00.000000+00:00",
+    "updated_at": "2025-10-26T10:00:00.000000+00:00",
+    "name": "Power Supply Unit 12V",
+    "quantity": 55,
+    "note": "Updated stock count after shipment."
+  },
+  {
+    "id": 9,
+    "created_at": "2025-10-25T10:08:00.000000+00:00",
+    "updated_at": null,
+    "name": "Sensor Proximity",
+    "quantity": 120,
+    "note": null
+  },
+  {
+    "id": 10,
+    "created_at": "2025-10-25T10:09:00.000000+00:00",
+    "updated_at": null,
+    "name": "Label Roll Standard",
+    "quantity": 25,
+    "note": "Used for shipping."
+  },
+  {
+    "id": 11,
+    "created_at": "2025-10-25T10:10:00.000000+00:00",
+    "updated_at": "2025-10-28T11:00:00.000000+00:00",
+    "name": "Motor DC Small",
+    "quantity": 95,
+    "note": "Tested and validated."
+  },
+  {
+    "id": 12,
+    "created_at": "2025-10-25T10:11:00.000000+00:00",
+    "updated_at": null,
+    "name": "Rubber Grommet 5mm",
+    "quantity": 780,
+    "note": null
+  },
+  {
+    "id": 13,
+    "created_at": "2025-10-25T10:12:00.000000+00:00",
+    "updated_at": null,
+    "name": "Heat Sink Large",
+    "quantity": 30,
+    "note": "For high power components."
+  },
+  {
+    "id": 14,
+    "created_at": "2025-10-25T10:13:00.000000+00:00",
+    "updated_at": "2025-10-26T12:00:00.000000+00:00",
+    "name": "Cable Assembly 1m",
+    "quantity": 210,
+    "note": null
+  },
+  {
+    "id": 15,
+    "created_at": "2025-10-25T10:14:00.000000+00:00",
+    "updated_at": null,
+    "name": "Plastic Housing V2",
+    "quantity": 40,
+    "note": "Color: Black."
+  },
+  {
+    "id": 16,
+    "created_at": "2025-10-25T10:15:00.000000+00:00",
+    "updated_at": null,
+    "name": "Microcontroller Chip X1",
+    "quantity": 150,
+    "note": null
+  },
+  {
+    "id": 17,
+    "created_at": "2025-10-25T10:16:00.000000+00:00",
+    "updated_at": "2025-10-27T13:00:00.000000+00:00",
+    "name": "Battery Li-Ion 3.7V",
+    "quantity": 60,
+    "note": "Stored in fireproof cabinet."
+  },
+  {
+    "id": 18,
+    "created_at": "2025-10-25T10:17:00.000000+00:00",
+    "updated_at": null,
+    "name": "Push Button Red",
+    "quantity": 300,
+    "note": null
+  },
+  {
+    "id": 19,
+    "created_at": "2025-10-25T10:18:00.000000+00:00",
+    "updated_at": null,
+    "name": "Diode Zener 5V",
+    "quantity": 550,
+    "note": "Tray 2, Shelf 5."
+  },
+  {
+    "id": 20,
+    "created_at": "2025-10-25T10:19:00.000000+00:00",
+    "updated_at": "2025-10-28T15:00:00.000000+00:00",
+    "name": "Fan Cooling 40mm",
+    "quantity": 75,
+    "note": null
+  },
+  {
+    "id": 21,
+    "created_at": "2025-10-25T10:20:00.000000+00:00",
+    "updated_at": null,
+    "name": "Hinge Steel Small",
+    "quantity": 180,
+    "note": "Component for metal enclosures."
+  },
+  {
+    "id": 22,
+    "created_at": "2025-10-25T10:21:00.000000+00:00",
+    "updated_at": null,
+    "name": "Wire Spool 22AWG Red",
+    "quantity": 5,
+    "note": null
+  },
+  {
+    "id": 23,
+    "created_at": "2025-10-25T10:22:00.000000+00:00",
+    "updated_at": "2025-10-26T08:00:00.000000+00:00",
+    "name": "Insulation Foam Sheet",
+    "quantity": 40,
+    "note": "Cut to 30cm x 30cm."
+  },
+  {
+    "id": 24,
+    "created_at": "2025-10-25T10:23:00.000000+00:00",
+    "updated_at": null,
+    "name": "Nut Hex M5",
+    "quantity": 900,
+    "note": null
+  },
+  {
+    "id": 25,
+    "created_at": "2025-10-25T10:24:00.000000+00:00",
+    "updated_at": null,
+    "name": "Display LCD 2x16",
+    "quantity": 65,
+    "note": "Fragile - handle with care."
+  },
+  {
+    "id": 26,
+    "created_at": "2025-10-25T10:25:00.000000+00:00",
+    "updated_at": "2025-10-28T10:00:00.000000+00:00",
+    "name": "Encoder Rotary",
+    "quantity": 110,
+    "note": null
+  },
+  {
+    "id": 27,
+    "created_at": "2025-10-25T10:26:00.000000+00:00",
+    "updated_at": null,
+    "name": "Connector Terminal Block",
+    "quantity": 380,
+    "note": "3-pin version."
+  },
+  {
+    "id": 28,
+    "created_at": "2025-10-25T10:27:00.000000+00:00",
+    "updated_at": null,
+    "name": "Relay 12V SPDT",
+    "quantity": 250,
+    "note": null
+  },
+  {
+    "id": 29,
+    "created_at": "2025-10-25T10:28:00.000000+00:00",
+    "updated_at": "2025-10-27T16:00:00.000000+00:00",
+    "name": "Silicone Sealant Tube",
+    "quantity": 15,
+    "note": "Exp. 2026-06-01."
+  },
+  {
+    "id": 30,
+    "created_at": "2025-10-25T10:29:00.000000+00:00",
+    "updated_at": null,
+    "name": "Filter EMI 10A",
+    "quantity": 50,
+    "note": null
+  },
+  {
+    "id": 31,
+    "created_at": "2025-10-25T10:30:00.000000+00:00",
+    "updated_at": null,
+    "name": "Fuse 5A Fast-blow",
+    "quantity": 650,
+    "note": "Box of 100."
+  },
+  {
+    "id": 32,
+    "created_at": "2025-10-25T10:31:00.000000+00:00",
+    "updated_at": "2025-10-26T17:00:00.000000+00:00",
+    "name": "Solder Paste Lead-Free",
+    "quantity": 8,
+    "note": "Refrigerated item."
+  },
+  {
+    "id": 33,
+    "created_at": "2025-10-25T10:32:00.000000+00:00",
+    "updated_at": null,
+    "name": "Washer Flat M3",
+    "quantity": 1000,
+    "note": null
+  },
+  {
+    "id": 34,
+    "created_at": "2025-10-25T10:33:00.000000+00:00",
+    "updated_at": null,
+    "name": "Test Probe Kit",
+    "quantity": 20,
+    "note": "Calibration due."
+  },
+  {
+    "id": 35,
+    "created_at": "2025-10-25T10:34:00.000000+00:00",
+    "updated_at": "2025-10-28T18:00:00.000000+00:00",
+    "name": "PCB Blank FR4",
+    "quantity": 150,
+    "note": null
+  },
+  {
+    "id": 36,
+    "created_at": "2025-10-25T10:35:00.000000+00:00",
+    "updated_at": null,
+    "name": "Jumper Cable Pack",
+    "quantity": 40,
+    "note": "Assorted lengths."
+  },
+  {
+    "id": 37,
+    "created_at": "2025-10-25T10:36:00.000000+00:00",
+    "updated_at": null,
+    "name": "Potentiometer 10kOhm",
+    "quantity": 220,
+    "note": null
+  },
+  {
+    "id": 38,
+    "created_at": "2025-10-25T10:37:00.000000+00:00",
+    "updated_at": "2025-10-27T19:00:00.000000+00:00",
+    "name": "RF Module 2.4GHz",
+    "quantity": 88,
+    "note": "Requires FCC certification check."
+  },
+  {
+    "id": 39,
+    "created_at": "2025-10-25T10:38:00.000000+00:00",
+    "updated_at": null,
+    "name": "Speaker 8 Ohm",
+    "quantity": 70,
+    "note": null
+  },
+  {
+    "id": 40,
+    "created_at": "2025-10-25T10:39:00.000000+00:00",
+    "updated_at": null,
+    "name": "Tape Electrical Black",
+    "quantity": 10,
+    "note": "3M Brand."
+  },
+  {
+    "id": 41,
+    "created_at": "2025-10-25T10:40:00.000000+00:00",
+    "updated_at": "2025-10-28T20:00:00.000000+00:00",
+    "name": "Optocoupler DIP-6",
+    "quantity": 450,
+    "note": null
+  },
+  {
+    "id": 42,
+    "created_at": "2025-10-25T10:41:00.000000+00:00",
+    "updated_at": null,
+    "name": "Transistor NPN",
+    "quantity": 700,
+    "note": "General purpose."
+  },
+  {
+    "id": 43,
+    "created_at": "2025-10-25T10:42:00.000000+00:00",
+    "updated_at": null,
+    "name": "Breadboard Full Size",
+    "quantity": 15,
+    "note": null
+  },
+  {
+    "id": 44,
+    "created_at": "2025-10-25T10:43:00.000000+00:00",
+    "updated_at": "2025-10-26T21:00:00.000000+00:00",
+    "name": "Toggle Switch 2-pos",
+    "quantity": 90,
+    "note": "Momentary action."
+  },
+  {
+    "id": 45,
+    "created_at": "2025-10-25T10:44:00.000000+00:00",
+    "updated_at": null,
+    "name": "Enclosure Aluminum Small",
+    "quantity": 55,
+    "note": "Pending drilling."
+  },
+  {
+    "id": 46,
+    "created_at": "2025-10-25T10:45:00.000000+00:00",
+    "updated_at": null,
+    "name": "Magnifying Lamp Desk",
+    "quantity": 3,
+    "note": null
+  },
+  {
+    "id": 47,
+    "created_at": "2025-10-25T10:46:00.000000+00:00",
+    "updated_at": "2025-10-27T22:00:00.000000+00:00",
+    "name": "Cable Tie Black 150mm",
+    "quantity": 950,
+    "note": "Bulk pack."
+  },
+  {
+    "id": 48,
+    "created_at": "2025-10-25T10:47:00.000000+00:00",
+    "updated_at": null,
+    "name": "Gasket Silicone O-Ring",
+    "quantity": 320,
+    "note": null
+  },
+  {
+    "id": 49,
+    "created_at": "2025-10-25T10:48:00.000000+00:00",
+    "updated_at": null,
+    "name": "Adhesive Epoxy 2-part",
+    "quantity": 18,
+    "note": "Store cool."
+  },
+  {
+    "id": 50,
+    "created_at": "2025-10-25T10:49:00.000000+00:00",
+    "updated_at": "2025-10-28T23:00:00.000000+00:00",
+    "name": "D-Sub Connector 9-pin",
+    "quantity": 130,
+    "note": null
+  },
+  {
+    "id": 51,
+    "created_at": "2025-10-25T10:50:00.000000+00:00",
+    "updated_at": null,
+    "name": "Safety Glasses Clear",
+    "quantity": 50,
+    "note": "PPE requirement."
+  },
+  {
+    "id": 52,
+    "created_at": "2025-10-25T10:51:00.000000+00:00",
+    "updated_at": null,
+    "name": "Soldering Iron Tip Fine",
+    "quantity": 25,
+    "note": null
+  },
+  {
+    "id": 53,
+    "created_at": "2025-10-25T10:52:00.000000+00:00",
+    "updated_at": "2025-10-26T00:30:00.000000+00:00",
+    "name": "Desiccant Pack",
+    "quantity": 600,
+    "note": "For moisture control."
+  },
+  {
+    "id": 54,
+    "created_at": "2025-10-25T10:53:00.000000+00:00",
+    "updated_at": null,
+    "name": "Ethernet Jack RJ45",
+    "quantity": 280,
+    "note": null
+  },
+  {
+    "id": 55,
+    "created_at": "2025-10-25T10:54:00.000000+00:00",
+    "updated_at": null,
+    "name": "Thermal Pad 100x100mm",
+    "quantity": 75,
+    "note": "0.5mm thickness."
+  },
+  {
+    "id": 56,
+    "created_at": "2025-10-25T10:55:00.000000+00:00",
+    "updated_at": "2025-10-28T01:30:00.000000+00:00",
+    "name": "Switch Rocker Illuminated",
+    "quantity": 105,
+    "note": null
+  },
+  {
+    "id": 57,
+    "created_at": "2025-10-25T10:56:00.000000+00:00",
+    "updated_at": null,
+    "name": "Camera Module Small",
+    "quantity": 45,
+    "note": null
+  },
+  {
+    "id": 58,
+    "created_at": "2025-10-25T10:57:00.000000+00:00",
+    "updated_at": null,
+    "name": "Buzzer Piezo 5V",
+    "quantity": 520,
+    "note": "Used for alerts."
+  },
+  {
+    "id": 59,
+    "created_at": "2025-10-25T10:58:00.000000+00:00",
+    "updated_at": "2025-10-27T02:30:00.000000+00:00",
+    "name": "Antenna External 900MHz",
+    "quantity": 60,
+    "note": null
+  },
+  {
+    "id": 60,
+    "created_at": "2025-10-25T10:59:00.000000+00:00",
+    "updated_at": null,
+    "name": "Vacuum Pump Miniature",
+    "quantity": 12,
+    "note": "High precision component."
+  },
+  {
+    "id": 61,
+    "created_at": "2025-10-25T11:00:00.000000+00:00",
+    "updated_at": null,
+    "name": "USB Connector Type-C",
+    "quantity": 750,
+    "note": null
+  },
+  {
+    "id": 62,
+    "created_at": "2025-10-25T11:01:00.000000+00:00",
+    "updated_at": "2025-10-28T03:30:00.000000+00:00",
+    "name": "Hose Clear PVC 5mm",
+    "quantity": 100,
+    "note": "Measured in meters."
+  },
+  {
+    "id": 63,
+    "created_at": "2025-10-25T11:02:00.000000+00:00",
+    "updated_at": null,
+    "name": "Hose Clamp Stainless",
+    "quantity": 410,
+    "note": null
+  },
+  {
+    "id": 64,
+    "created_at": "2025-10-25T11:03:00.000000+00:00",
+    "updated_at": null,
+    "name": "Gloves Nitrile Large Box",
+    "quantity": 5,
+    "note": "For clean room use."
+  },
+  {
+    "id": 65,
+    "created_at": "2025-10-25T11:04:00.000000+00:00",
+    "updated_at": "2025-10-26T04:30:00.000000+00:00",
+    "name": "Soldering Flux Pen",
+    "quantity": 30,
+    "note": null
+  },
+  {
+    "id": 66,
+    "created_at": "2025-10-25T11:05:00.000000+00:00",
+    "updated_at": null,
+    "name": "Potting Compound Resin",
+    "quantity": 15,
+    "note": "For weatherproofing."
+  },
+  {
+    "id": 67,
+    "created_at": "2025-10-25T11:06:00.000000+00:00",
+    "updated_at": null,
+    "name": "Bearing Ball 608ZZ",
+    "quantity": 620,
+    "note": null
+  },
+  {
+    "id": 68,
+    "created_at": "2025-10-25T11:07:00.000000+00:00",
+    "updated_at": "2025-10-27T05:30:00.000000+00:00",
+    "name": "Timing Belt T2.5",
+    "quantity": 80,
+    "note": "5 meter rolls."
+  },
+  {
+    "id": 69,
+    "created_at": "2025-10-25T11:08:00.000000+00:00",
+    "updated_at": null,
+    "name": "IR Sensor Module",
+    "quantity": 190,
+    "note": null
+  },
+  {
+    "id": 70,
+    "created_at": "2025-10-25T11:09:00.000000+00:00",
+    "updated_at": null,
+    "name": "Microphone Condenser",
+    "quantity": 230,
+    "note": "High sensitivity."
+  },
+  {
+    "id": 71,
+    "created_at": "2025-10-25T11:10:00.000000+00:00",
+    "updated_at": "2025-10-28T06:30:00.000000+00:00",
+    "name": "Foam Tape Double-Sided",
+    "quantity": 40,
+    "note": null
+  },
+  {
+    "id": 72,
+    "created_at": "2025-10-25T11:11:00.000000+00:00",
+    "updated_at": null,
+    "name": "Plastic Sheet Polycarbonate",
+    "quantity": 25,
+    "note": "4mm thickness."
+  },
+  {
+    "id": 73,
+    "created_at": "2025-10-25T11:12:00.000000+00:00",
+    "updated_at": null,
+    "name": "Hex Standoff M3 10mm",
+    "quantity": 790,
+    "note": "Brass material."
+  },
+  {
+    "id": 74,
+    "created_at": "2025-10-25T11:13:00.000000+00:00",
+    "updated_at": "2025-10-26T07:30:00.000000+00:00",
+    "name": "DIP Socket 14-pin",
+    "quantity": 360,
+    "note": null
+  },
+  {
+    "id": 75,
+    "created_at": "2025-10-25T11:14:00.000000+00:00",
+    "updated_at": null,
+    "name": "LCD Backlight Strip",
+    "quantity": 115,
+    "note": "White LED."
+  },
+  {
+    "id": 76,
+    "created_at": "2025-10-25T11:15:00.000000+00:00",
+    "updated_at": null,
+    "name": "Micro SD Card 32GB",
+    "quantity": 95,
+    "note": "Industrial grade."
+  },
+  {
+    "id": 77,
+    "created_at": "2025-10-25T11:16:00.000000+00:00",
+    "updated_at": "2025-10-27T08:30:00.000000+00:00",
+    "name": "Waterproof Connector M12",
+    "quantity": 170,
+    "note": null
+  },
+  {
+    "id": 78,
+    "created_at": "2025-10-25T11:17:00.000000+00:00",
+    "updated_at": null,
+    "name": "Pneumatic Valve 5/2 Way",
+    "quantity": 18,
+    "note": "24V DC solenoid."
+  },
+  {
+    "id": 79,
+    "created_at": "2025-10-25T11:18:00.000000+00:00",
+    "updated_at": null,
+    "name": "Reflective Tape Red",
+    "quantity": 12,
+    "note": "Rolls of 10m."
+  },
+  {
+    "id": 80,
+    "created_at": "2025-10-25T11:19:00.000000+00:00",
+    "updated_at": "2025-10-28T09:30:00.000000+00:00",
+    "name": "UV LED Strip",
+    "quantity": 60,
+    "note": null
+  },
+  {
+    "id": 81,
+    "created_at": "2025-10-25T11:20:00.000000+00:00",
+    "updated_at": null,
+    "name": "Touch Screen Digitizer 7\"",
+    "quantity": 40,
+    "note": "Capacitive."
+  },
+  {
+    "id": 82,
+    "created_at": "2025-10-25T11:21:00.000000+00:00",
+    "updated_at": null,
+    "name": "Crimp Tool RJ45",
+    "quantity": 8,
+    "note": "Shared tool."
+  },
+  {
+    "id": 83,
+    "created_at": "2025-10-25T11:22:00.000000+00:00",
+    "updated_at": "2025-10-26T10:30:00.000000+00:00",
+    "name": "Terminal Crimp Fork",
+    "quantity": 800,
+    "note": null
+  },
+  {
+    "id": 84,
+    "created_at": "2025-10-25T11:23:00.000000+00:00",
+    "updated_at": null,
+    "name": "Safety Barrier Light",
+    "quantity": 10,
+    "note": "Warehouse stock."
+  },
+  {
+    "id": 85,
+    "created_at": "2025-10-25T11:24:00.000000+00:00",
+    "updated_at": null,
+    "name": "Fiber Optic Cable 5m",
+    "quantity": 22,
+    "note": "LC-LC connector type."
+  },
+  {
+    "id": 86,
+    "created_at": "2025-10-25T11:25:00.000000+00:00",
+    "updated_at": "2025-10-28T11:30:00.000000+00:00",
+    "name": "Circuit Breaker 15A",
+    "quantity": 70,
+    "note": null
+  },
+  {
+    "id": 87,
+    "created_at": "2025-10-25T11:26:00.000000+00:00",
+    "updated_at": null,
+    "name": "Surge Protector Outlet",
+    "quantity": 35,
+    "note": "6-outlet strip."
+  },
+  {
+    "id": 88,
+    "created_at": "2025-10-25T11:27:00.000000+00:00",
+    "updated_at": null,
+    "name": "Adhesive Label Printer",
+    "quantity": 2,
+    "note": "Office equipment."
+  },
+  {
+    "id": 89,
+    "created_at": "2025-10-25T11:28:00.000000+00:00",
+    "updated_at": "2025-10-27T12:30:00.000000+00:00",
+    "name": "Ethernet Switch 8-Port",
+    "quantity": 14,
+    "note": null
+  },
+  {
+    "id": 90,
+    "created_at": "2025-10-25T11:29:00.000000+00:00",
+    "updated_at": null,
+    "name": "Safety Sign Caution",
+    "quantity": 50,
+    "note": "Laminated."
+  },
+  {
+    "id": 91,
+    "created_at": "2025-10-25T11:30:00.000000+00:00",
+    "updated_at": null,
+    "name": "HDMI Cable 2m",
+    "quantity": 85,
+    "note": "Version 2.0."
+  },
+  {
+    "id": 92,
+    "created_at": "2025-10-25T11:31:00.000000+00:00",
+    "updated_at": "2025-10-28T13:30:00.000000+00:00",
+    "name": "Mounting Bracket L-Shape",
+    "quantity": 480,
+    "note": null
+  },
+  {
+    "id": 93,
+    "created_at": "2025-10-25T11:32:00.000000+00:00",
+    "updated_at": null,
+    "name": "Neodymium Magnet Disc",
+    "quantity": 600,
+    "note": "Small size, N52 grade."
+  },
+  {
+    "id": 94,
+    "created_at": "2025-10-25T11:33:00.000000+00:00",
+    "updated_at": null,
+    "name": "Capacitor Ceramic 0.1uF",
+    "quantity": 1000,
+    "note": "Bulk packaging."
+  },
+  {
+    "id": 95,
+    "created_at": "2025-10-25T11:34:00.000000+00:00",
+    "updated_at": "2025-10-26T14:30:00.000000+00:00",
+    "name": "JST Connector 2-pin",
+    "quantity": 720,
+    "note": null
+  },
+  {
+    "id": 96,
+    "created_at": "2025-10-25T11:35:00.000000+00:00",
+    "updated_at": null,
+    "name": "Drill Bit Set HSS",
+    "quantity": 15,
+    "note": "Tool crib inventory."
+  },
+  {
+    "id": 97,
+    "created_at": "2025-10-25T11:36:00.000000+00:00",
+    "updated_at": null,
+    "name": "Microscope Digital USB",
+    "quantity": 5,
+    "note": null
+  },
+  {
+    "id": 98,
+    "created_at": "2025-10-25T11:37:00.000000+00:00",
+    "updated_at": "2025-10-27T15:30:00.000000+00:00",
+    "name": "Soldering Fume Extractor",
+    "quantity": 4,
+    "note": "Filter replacement due."
+  },
+  {
+    "id": 99,
+    "created_at": "2025-10-25T11:38:00.000000+00:00",
+    "updated_at": null,
+    "name": "ESD Wrist Strap",
+    "quantity": 180,
+    "note": "Preventative measure."
+  },
+  {
+    "id": 100,
+    "created_at": "2025-10-25T11:39:00.000000+00:00",
+    "updated_at": null,
+    "name": "Development Board Pico",
+    "quantity": 65,
+    "note": "Latest revision."
+  }
+]
