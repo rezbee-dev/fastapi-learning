@@ -3,14 +3,14 @@ from .model import ItemResponse as Item
 def read_by_id(db: list[Item], id: int):
     return [item for item in db if item.id == id] 
 
-def read_all(db: list[Item], skip: int = 0, limit: int = 0):
+def read_all(db: list[Item], skip: int = 0, limit: int = 0) -> list[Item]:
     # set skip & limit to return entire db if not valid
     if(skip < 0 or skip >= len(db)):
         skip = 0
         
-    if(limit < -1 or limit > len(db)):
+    if(limit <= 0 or limit > len(db)):
         limit = len(db)
-        
+    
     return db[skip:limit]
 
 def update_by_id(db: list[Item], new_item: Item):
